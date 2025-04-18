@@ -3,7 +3,7 @@ public class Hello{
         StringBuffer bro = new StringBuffer("mayank");
         System.out.println(bro.append(" hello"));
         System.out.println(bro.delete(6, 9));
-        System.out.println(bro.isEmpty());
+        // System.out.println(bro.isEmpty());
         System.out.println(bro.deleteCharAt(5));
 
     }
