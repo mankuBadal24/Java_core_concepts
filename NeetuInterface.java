@@ -41,5 +41,7 @@ public class NeetuInterface extends Mine {
         hi.Physics();
         // Mine ji = new Mine();
         // ji.Physics();
+
+
     }
 }
